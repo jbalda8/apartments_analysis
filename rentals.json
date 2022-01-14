@@ -249,6 +249,5 @@
 {"name": "The Brixton", "address": "4929 Red Robin Dr, Beech Grove, IN 46107", "min_price": "899", "max_price": "899", "link": "https://www.apartments.com/the-brixton-beech-grove-in/k7h05y9/"},
 {"name": "Willow Glen South", "address": "4880 Willow Glen Dr, Beech Grove, IN 46107", "min_price": "744", "max_price": "844", "link": "https://www.apartments.com/willow-glen-south-beech-grove-in/yspwdms/"},
 {"name": "Auburn Place Apartments", "address": "745 Wooddale Ter, Greenwood, IN 46142", "min_price": "829", "max_price": "879", "link": "https://www.apartments.com/auburn-place-apartments-greenwood-in/mrhlqsh/"},
-{"name": "Stanford Court", "address": "1815 Foyt Dr, Speedway, IN 46224", "min_price": "538", "max_price": "679", "link": "https://www.apartments.com/stanford-court-speedway-in/we92wyj/"},
-{"name": "4401 Eagle Creek Pkwy", "address": "Indianapolis, IN 46254", "min_price": "1430", "max_price": "1430", "link": "https://www.apartments.com/4401-eagle-creek-pkwy-indianapolis-in/9n0y4r7/"}
+{"name": "Stanford Court", "address": "1815 Foyt Dr, Speedway, IN 46224", "min_price": "538", "max_price": "679", "link": "https://www.apartments.com/stanford-court-speedway-in/we92wyj/"}
 ]
